@@ -1,0 +1,9 @@
+Sensor,Position Tested,Key Metric,Result,Selected,Reason
+MPU6050/BMA400,Chest,Impact Peak,3.0 g,No,Medium signal separation
+MPU6050/BMA400,Upper arm,Impact Peak,2.8 g,No,More motion artefacts
+MPU6050/BMA400,Waist/Lower torso,Impact Peak,3.8 g,Yes,Highest impact separation
+MAX30102,Left chest,PPG SNR,18.4 dB,Yes,Strong stable PPG signal
+MAX30102,Upper arm,PPG SNR,12.1 dB,No,Moderate motion artefacts
+MAX30102,Wrist,PPG SNR,8.5 dB,No,Highest motion artefacts
+Chest Sound,Upper chest/Sternum,SNR,16.7 dB,Yes,Strong respiratory waveform
+Chest Sound,Lower chest,SNR,9.1 dB,No,Weaker signal and more interference
