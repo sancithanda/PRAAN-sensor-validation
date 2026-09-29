@@ -1,0 +1,4 @@
+sensor,position,heart_rate_bpm,spo2_percent,ppg_snr_db,motion_artifact,signal_quality,selection
+MAX30102,Left chest,72,98,18.4,Low,High,Selected
+MAX30102,Upper arm,68,97,12.1,Medium,Medium,Not selected
+MAX30102,Wrist,76,98,8.5,High,Low,Not selected
