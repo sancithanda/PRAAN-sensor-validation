@@ -1,0 +1,3 @@
+sensor,position,condition,signal_amplitude_au,snr_db,waveform_quality,motion_artifact,selection
+Chest_Sound,Upper_chest/Sternum,Normal_breathing,0.82,16.7,High,Low,Selected
+Chest_Sound,Lower_chest,Normal_breathing,0.46,9.1,Medium,Medium,Not_selected
