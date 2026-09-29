@@ -1,0 +1,6 @@
+timestamp_ms,position,condition,trial,ir_value,red_value,heart_rate_bpm,spo2_percent
+0,left_chest,rest,1,52340,48210,72,98
+20,left_chest,rest,1,53120,48750,72,98
+40,left_chest,rest,1,52680,48520,73,98
+60,left_chest,rest,1,53410,49010,72,97
+80,left_chest,rest,1,52980,48640,72,98
