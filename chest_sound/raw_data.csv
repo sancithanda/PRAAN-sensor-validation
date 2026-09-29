@@ -1,0 +1,6 @@
+timestamp_us,position,condition,trial,amplitude
+0,upper_chest,quiet_breathing,1,2048
+125,upper_chest,quiet_breathing,1,2057
+250,upper_chest,quiet_breathing,1,2071
+375,upper_chest,quiet_breathing,1,2062
+500,upper_chest,quiet_breathing,1,2080
