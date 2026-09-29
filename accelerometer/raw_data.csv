@@ -1,0 +1,6 @@
+timestamp_ms,position,activity,trial,Ax_g,Ay_g,Az_g,acceleration_magnitude_g
+0,waist,walking,1,0.021,0.034,0.982,0.983
+20,waist,walking,1,0.041,0.052,1.014,1.016
+40,waist,walking,1,0.062,0.038,0.961,0.964
+60,waist,walking,1,-0.031,0.071,1.082,1.085
+80,waist,walking,1,-0.082,-0.041,0.921,0.926
